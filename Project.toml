@@ -1,7 +1,7 @@
 name = "Gmsh"
 uuid = "705231aa-382f-11e9-3f0c-b7cb4346fdeb"
 authors = ["Jukka Aho <ahojukka5@gmail.com>"]
-version = "0.3.1"
+version = "0.3.2"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
